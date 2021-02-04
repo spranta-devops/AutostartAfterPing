@@ -1,6 +1,6 @@
 # AutostartAfterPing
 
-## Instrucstion
+## Instructions
 Customize and use this batch script to start programs automatically after successfully pinging a specific server.
 
 * Used with a public server (www.google.de) it will start the programs once the internet is available.
